@@ -2,7 +2,7 @@
 
 I'm Gabriel, a Software Engineer Student at [École 42 in São Paulo](https://www.42sp.org.br/)
 
-- 🔭 I’m currently working on [push-swap](https://github.com/gabrielrodrigues42/push-swap)
+- 🔭 I’m currently working on [push-swap](https://github.com/gabrielrodrigues42/push-swap) and [disturing](https://disturing.herokuapp.com/)
 - 🌱 I’m currently learning C, Elixir and Vue.js
 - 📫 How to reach me: **gandrade@student.42sp.org.br** | [LinkedIn](https://www.linkedin.com/in/gabrielrodrigues42/)
 
